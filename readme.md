@@ -35,6 +35,7 @@ To generate a lockscreen image with exchange rates, run the following command:
 ```sh
 python main.py <home_currency> <foreign_currency>
 ```
+The image is saved in the current directory
 
 Example usage to generate a lockscreen image with exchange rates between USD and VND:
 
