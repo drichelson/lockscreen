@@ -13,7 +13,12 @@ traveling.
 
 ## Example
 
-<img src="example.png" alt="example" width="300"/>
+<img src="readme_examples/example.png" alt="example" width="300"/>
+
+Screenshot after installing as iPhone lockscreen:
+
+<img src="readme_examples/iphone.jpeg" alt="example" width="300"/>
+
 
 ## Requirements
 
